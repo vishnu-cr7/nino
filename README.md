@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img border-radius: 15px src="87007820.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="torres.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="marvel" src="https://img.shields.io/badge/marvel-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="nino" src="https://img.shields.io/badge/nino-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Tony-alex1"><img title="Author" src="https://img.shields.io/badge/Author-tony-alex1/marvel?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/vishnu-cr7"><img title="Author" src="https://img.shields.io/badge/Author-vishnu-cr7/nino?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/tony-alex1">Tony-alex1</a> to make it public
+Project created by <a href="https://github.com/vishnu-cr7">vishnu-cr7</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/tony-alex1">Tony-alex1</a> to mak
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Tony-alex1/marvel">
-    <img src="https://img.shields.io/github/repo-size/Tony-alex1/marvel?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/vishnu-cr7/nino">
+    <img src="https://img.shields.io/github/repo-size/vishnu-cr7/nino?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Tony-alex1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Tony-alex1?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tony-alex1/marvel/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tony-alex1/marvel?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tony-alex1/marvel/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tony-alex1/marvel?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tony-alex1/marvel/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Tony-alex1/marvel?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/vishnu-cr7/followers"><img title="Followers" src="https://img.shields.io/github/followers/vishnu-cr7?color=blue&style=flat-square"></a>
+<a href="https://github.com/vishnu-cr7/nino/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/vishnu-cr7/nino?color=blue&style=flat-square"></a>
+<a href="https://github.com/vishnu-cr7/nino/network/members"><img title="Forks" src="https://img.shields.io/github/forks/vishnu-cr7/nino?color=blue&style=flat-square"></a>
+<a href="https://github.com/vishnu-cr7/nino/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/vishnu-cr7/nino?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -33,7 +33,7 @@ Project created by <a href="https://github.com/tony-alex1">Tony-alex1</a> to mak
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
